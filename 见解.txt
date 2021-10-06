@@ -1,0 +1,8 @@
+cvtrain1
+
+ -> modularity matrix 
+
+->  first column  user1  
+      second column user2
+
+-> third column rating
